@@ -1,4 +1,4 @@
-# Foobar
+# AvaCogs
 
 avacogs are the official cog repository of AvaBot - built off Red and maintained by Wes.
 
